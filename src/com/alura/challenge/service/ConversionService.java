@@ -30,7 +30,7 @@ public class ConversionService {
         setConverter();
     }
 
-    public void init() {
+    public void function() {
         showBanner();
         String input = "";
         do {
