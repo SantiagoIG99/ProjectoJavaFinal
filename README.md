@@ -1,0 +1,1 @@
+Este proyecto es un conversor de monedas que permite realizar diversas conversiones entre diferentes tipos de monedas, incluyendo Dólar, Pesos Argentinos, Reales y Pesos Colombianos. Utiliza la Exchange Rate API para obtener las tasas de cambio en tiempo real.
